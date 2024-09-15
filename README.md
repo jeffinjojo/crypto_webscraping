@@ -1,6 +1,5 @@
 # crypto_webscraping
 
-"""
 Crypto Market Tracker
 
 This project was my first experience using Python libraries like Selenium, Matplotlib and pandas. Due
@@ -54,4 +53,3 @@ Selenium Tut: https://www.youtube.com/watch?v=NB8OceGZGjA
 Matplotlib Tut: https://www.youtube.com/watch?v=OZOOLe2imFo
 Pandas Tut: https://www.youtube.com/watch?v=iGFdh6_FePU
 Installing Chromedriver: https://www.youtube.com/watch?v=dz59GsdvUF8
-"""
