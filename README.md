@@ -4,8 +4,8 @@ Jeffin's REAL TIME TOP 10 Crypto Market Tracker
 
 This project was my first experience using Python libraries like Selenium, Matplotlib and pandas. Due
 to my keen interest in financial markets, in particular the cryptocurrency market, I wanted to build 
-a web scraper that tracks live cryptocurrency data from coinmarketcap.com and visualises the market cap
-of the top 10 cryptocurrencies in the market.
+a web scraper that tracks live cryptocurrency data from coinmarketcap.com and the visualises the market cap
+of the top 10 cryptocurrencies in the market using matplotlib an pandas.
 
 I started by learning Selenium, which is needed to interact with a dynamic, JavaScript-heavy website such
 as Coinmarketcap, using XPath to navigate changing page structures. 
