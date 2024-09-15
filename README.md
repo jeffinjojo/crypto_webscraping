@@ -39,6 +39,16 @@ What challenges did I face:
 Overall, this project gave me practical experience in automating data extraction and visualisation, crucial for roles 
 involving data analysis and fintech.
 
+CODE TEST OUTPUTS
+
+FIGURE 1 (Matplotlib Graph), AS OF 14TH SEP 2024
+
+![figure1_14_09_24](https://github.com/user-attachments/assets/739f2540-cb96-4d16-910a-ee443d5c3592)
+
+TERMINAL OUTPUT, AS OF 14TH SEP 2024
+
+![terminal_output_14_09_24](https://github.com/user-attachments/assets/c35868cf-9390-4eb3-8d1a-f9721f6ab8be)
+
 REFERENCES:
 Selenium Tut: https://www.youtube.com/watch?v=NB8OceGZGjA
 Matplotlib Tut: https://www.youtube.com/watch?v=OZOOLe2imFo
