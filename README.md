@@ -1,6 +1,6 @@
 # crypto_webscraping
 
-Crypto Market Tracker
+Jeffin's REAL TIME TOP 10 Crypto Market Tracker
 
 This project was my first experience using Python libraries like Selenium, Matplotlib and pandas. Due
 to my keen interest in financial markets, in particular the cryptocurrency market, I wanted to build 
